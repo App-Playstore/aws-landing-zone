@@ -1,5 +1,4 @@
 
-![OLLION](img/OLLION_BANNER.png)
 
 # AWS Landing Zone
 [![Documentation](https://img.shields.io/badge/Wiki-User_Guide-red?logo=read-the-docs)](https://github.com/ollionorg/aws-landing-zone/wiki/User-Guide)
